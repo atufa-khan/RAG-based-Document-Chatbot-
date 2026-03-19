@@ -1,0 +1,25 @@
+# Core RAG
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
+
+# Local LLM via Ollama
+ollama==0.3.3
+
+# Embeddings (local, no API key needed)
+sentence-transformers==3.0.1
+
+# Vector store
+faiss-cpu==1.8.0
+
+# Document loaders
+pypdf==4.3.1
+python-docx==1.1.2
+unstructured==0.15.1
+
+# UI
+streamlit==1.38.0
+
+# Utilities
+tqdm==4.66.5
+python-dotenv==1.0.1
