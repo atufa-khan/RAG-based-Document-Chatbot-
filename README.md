@@ -1,8 +1,5 @@
 # RAG Document Chatbot
 
-A fully local RAG pipeline: no OpenAI API key, no cloud services.
-Every component runs on your machine.
-
 ## Stack
 
 | Component      | Tool                              |
